@@ -11,7 +11,7 @@ The app is fully responsive for different screen sizes and orientation.
 The app supports light and dark themes.
 
 used packages:  
-&emsp;- getX  
+&emsp;- getX state management  
 &emsp;- get storage  
 &emsp;- sqflite  
 &emsp;- rxdart  
