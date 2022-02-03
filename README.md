@@ -6,6 +6,8 @@ You can set tasks to repeat daily, weekly, monthly, or do not repeat.
 
 At the time of each task you will get a notification to remind you.
 
+The app is fully responsive for different screen sizes and orientation.
+
 The app supports light and dark themes.
 
 used packages:  
